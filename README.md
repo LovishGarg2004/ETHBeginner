@@ -56,4 +56,19 @@ contract MyToken {
 5. **Deployment time!:** Now switch to the "Deploy & Run Transactions" tab. Find `MyToken` in the dropdown menu and click "Deploy" to unleash your contract to the world (well, a virtual world at least).
 
 6. **Let's play!:** Remix provides a cool interface to interact with your contract. Use it to call those `mintToken` and `burnToken` functions. Just fill in the info they need and hit the buttons to make it happen!
-   
+
+## Help
+If you encounter any issues, ensure the following:
+1. The Solidity compiler version is set correctly.
+2. The address used in function calls is valid.
+3. The balance of the address is sufficient for burning tokens.
+
+For additional help, use the Remix documentation or community forums.   
+
+## Authors
+MetaCrafter Lovish Garg
+
+[@LovishGarg2004](https://www.linkedin.com/in/lovish-garg-480b37249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## License
+This project is licensed under the MIT License.
